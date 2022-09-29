@@ -1,14 +1,9 @@
 # sobre mim
+- 👋 ola meu nome é @emillypao
+- :+1: meu email de contato e emilly.garcia@escola.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas linguagens 
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e Scrath
 
-## editando perfil
-
-#### teste
-
-- 👋 Hi, I’m @emillypao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 emillypao/emillypao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
