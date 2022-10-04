@@ -1,5 +1,5 @@
 # sobre mim
-- 👋 ola meu nome é @emillypao
+- 👋 ola meu nome é **@emillypao**
 - :+1: meu email de contato e emilly.garcia@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a programar novas linguagens 
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e Scrath
